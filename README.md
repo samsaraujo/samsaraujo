@@ -14,7 +14,7 @@ My name is Samira Araujo, a student of Electrical Engineering with a special fas
 - I aspire to become a skilled Front-End developer with plans to transition to Back-End development in the future.
 
 #### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/samira-araujo-76b802187/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samira-araujo-76b802187/)
 
 #### 🌱 Fun Fact
 - I've been exploring the world of programming for just a few months, but I'm excited to learn and grow.
