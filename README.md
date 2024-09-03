@@ -6,12 +6,12 @@ My name is Samira Araujo, a student of Electrical Engineering with a special fas
 - Currently pursuing Electrical Engineering at the Federal University of Ceará - UFC.
 
 #### 💡 Skills
-✅ HTML, CSS, JavaScript, React, Angular, Tailwind CSS 
-✅ Node.js
-✅ PostgreSQL, MongoDB
-✅ Git, GitHub
-✅ Prisma ORM, Vite, Express
-✅ Python
+- HTML, CSS, JavaScript, React, Angular, Tailwind CSS 
+- Node.js
+- PostgreSQL, MongoDB
+- Git, GitHub
+- Prisma ORM, Vite, Express
+- Python
 
 
 #### 🚀 Goals
